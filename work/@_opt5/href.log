@@ -1,3 +1,0 @@
-BEGIN 1:memory:fast:work
-    mem :  1:p6502_tb:fast:work
-END 
