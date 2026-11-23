@@ -1,4 +1,4 @@
-module DECODER8X256 (
+module Decoder8x256 (
     input  wire [7  : 0] in,
     output wire [255: 0] out
 );
